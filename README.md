@@ -1,2 +1,1 @@
-# git-fork-case
-Repository for git fork case.
+# это проект по изуычению работы с ветками
